@@ -1,3 +1,7 @@
-hallo 
+hallo, wie gehts? 
 das bin ich
 ich bin muede
+ich bin sehr muede
+
+
+
